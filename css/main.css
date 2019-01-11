@@ -1,0 +1,474 @@
+
+/* ======================== Section topred =========================== */
+.topred{
+    background-image: url("../Imagas/bg-header.jpg");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: #fff;
+}
+
+.welcomest{
+    margin-top: 60px;
+}
+
+.topred .row .navbar ul li a{
+    color: #fff;
+}
+
+.topred .row .navbar ul li a:hover{
+    color: #fff;
+    border-bottom: 1px dashed #fff;
+}
+
+.welcomest h1{
+    font-family: Montserrat, sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.welcomest h4{
+    font-family: Roboto+Slab, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.welcomest button{
+    margin-top: 20px;
+}
+
+.btn_style{
+    background-color: rgba(255, 255, 255, 0.0);
+    color: white;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    padding: 10px 36px;
+}
+
+.btn_style:hover{
+    background-color: #fff;
+    color:#c0301c;
+}
+
+/* =========================Section servis=============================== */
+
+.servis{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.servis h5{
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #555555;
+    margin-bottom: 30px;
+}
+
+.tire{
+    margin-bottom: 30px;
+    background-color: #555555;
+    margin: auto;
+}
+
+.servis h6{
+    margin-top: 30px;
+    font-family: RobotoSlab;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    margin-bottom: 50px;
+}
+
+.servis .row h4{
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #555555;
+}
+
+.servis .row p{
+    text-align: justify;
+    font-family: RobotoSlab;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+}
+
+/* ===================Section workers======================= */
+
+.workers{
+    margin-bottom: 70px;
+}
+
+.workers h5{
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #555555;
+    margin-bottom: 30px;
+}
+
+.tire{
+    margin-bottom: 30px;
+    background-color: #555555;
+    margin: auto;
+}
+
+.workers h6{
+    margin-top: 30px;
+    font-family: RobotoSlab;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    margin-bottom: 50px;
+}
+
+.notice{
+    text-align: justify;
+    font-family: RobotoSlab;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+}
+
+#topCarousel .carousel-control-next-icon{
+    width: 25px;
+    height: 25px;
+    padding: 1px;
+    background: #c0301c no-repeat center center;
+    color: #ffffff;
+    content: "<";
+}
+
+#topCarousel .carousel-control-prev-icon{
+    width: 25px;
+    height: 25px;
+    padding: 1px;
+    background: #c0301c no-repeat center center;
+    color: #ffffff;
+    content: "<";
+}
+
+/* *************** CAROUSEL  ***************** */
+
+/* .large{
+    margin-top: 10px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #555555;
+    margin-bottom: 5px;
+}
+
+.smoll{
+    text-align: center;
+    font-family: RobotoSlab;
+    font-size: 13px;
+    font-weight: 400;
+    color: #555555;
+}  */
+
+/* *************** CAROUSEL END ***************** */
+
+/* ================Section gallery============================ */
+
+.gallery h5{
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #555555;
+    margin-bottom: 30px;
+}
+
+.tire{
+    margin-bottom: 30px;
+    background-color: #555555;
+    margin: auto;
+}
+
+
+.list-unstyled li{
+    margin: 15px;
+    
+}
+
+.list-unstyled li a{
+    color: #555555;
+}
+
+.list-unstyled li a:hover{
+    color: #c0301c;
+    text-decoration: none;
+}
+
+.red_questions{
+    background: url(../Imagas/bg-questions.png);
+    width: 100%;
+    height: 280px;
+    background-size: cover;
+    margin-top: 70px;
+}
+
+.red_questions p{
+    font-family: RobotoSlab;
+    font-size: 25px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+
+/* ===============Section date======================= */
+
+.date h5{
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #555555;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.tire{
+    margin-bottom: 20px;
+    background-color: #555555;
+    margin: auto;
+}
+
+.date h6{
+    margin-top: 20px;
+    font-family: RobotoSlab;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    margin-bottom: 50px;
+}
+
+.blog{
+    margin-bottom: 40px;
+}
+
+.near{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.name_dates a{
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #555555;
+    margin-left: 10px;
+}
+
+.name_dates a:hover{
+    color: #c0301c;
+}
+
+.name_dates p{
+    font-family: RobotoSlab;
+    font-size: 13px;
+    font-weight: 400;
+    color: #777777;
+    margin-left: 10px;
+}
+
+.name_dates .select{
+    text-transform: lowercase;
+    font-family: RobotoSlab;
+    font-size: 13px;
+    font-weight: 400;
+    color: #777777;
+}
+
+.texts_block .lorem{
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.texts_block .read_more{
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-family: RobotoSlab;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+.texts_block .read_more a{
+    margin-left: 0;
+}
+
+.texts_block .read_more:hover{
+    color: #c0301c;
+}
+
+#demo .carousel-caption{
+    color: #555555;
+}
+
+#demo .carousel-indicators{
+    margin-bottom: -2rem;
+}
+
+#demo .carousel-indicators li{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #555555;
+}
+
+/* ===================Section sponsors===================== */
+
+.sponsors{
+    margin-top: 70px;
+}
+
+.indent_text{
+    margin-bottom: 30px;
+}
+
+.logo_sponsor{
+    margin: auto;
+}
+
+.carousel-indicators{
+    color: gray;
+}
+
+
+
+/* ===================Section last_but_one===================== */
+
+.last_but_one{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.last_but_one h5{
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #555555;
+    margin-bottom: 30px;
+}
+
+.last_but_one h6{
+    margin-top: 30px;
+    font-family: RobotoSlab;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    margin-bottom: 50px;
+}
+
+.address i{
+    display:inline-block;
+    margin-bottom: 10px;
+}
+
+.address i a{
+    margin-left: 10px;
+    font-family: Montserrat sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #555555;
+}
+
+.address p{
+    margin-left: 20px;
+    font-family: RobotoSlab;
+    font-size: 12px;
+    font-weight: 400;
+    color: #555555;
+}
+
+.form-control{
+    font-family: RobotoSlab;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #555555;
+}
+
+.form-control:hover{
+    border-color: #c0301c;
+}
+
+.btn.btn-outline-secondary{
+    border-radius: 0;
+}
+
+.send span{
+    color: #c0301c;
+}
+
+.send a{
+    font-family: RobotoSlab;
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+/* ===================Section footer===================== */
+
+.footer{
+    background-color: #c0301c;
+    height:200px;
+}
+
+.footer .row{
+    height:200px;
+}
+
+.footer i{
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.twit{
+    margin-bottom: 30px;
+}
+
+.fa-twitter:before{
+    color: #ffffff;
+}
+
+.tire_bottom{
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+.copyright{
+    margin-top: 20px;
+}
+
+.copyright p{
+    font-family: RobotoSlab;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #ffffff;
+}
+
