@@ -139,44 +139,25 @@
     color: #555555;
 }
 
-#topCarousel .carousel-control-next-icon{
-    width: 25px;
-    height: 25px;
-    padding: 1px;
-    background: #c0301c no-repeat center center;
-    color: #ffffff;
-    content: "<";
-}
 
-#topCarousel .carousel-control-prev-icon{
-    width: 25px;
-    height: 25px;
-    padding: 1px;
-    background: #c0301c no-repeat center center;
-    color: #ffffff;
-    content: "<";
-}
 
 /* *************** CAROUSEL  ***************** */
 
-/* .large{
-    margin-top: 10px;
-    text-align: center;
+.big{
     font-family: Montserrat, sans-serif;
     font-size: 14px;
     font-weight: 400;
     text-transform: uppercase;
     color: #555555;
-    margin-bottom: 5px;
+    
 }
 
 .smoll{
-    text-align: center;
     font-family: RobotoSlab;
     font-size: 13px;
     font-weight: 400;
     color: #555555;
-}  */
+}
 
 /* *************** CAROUSEL END ***************** */
 
