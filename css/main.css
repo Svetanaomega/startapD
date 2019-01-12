@@ -149,7 +149,8 @@
     font-weight: 400;
     text-transform: uppercase;
     color: #555555;
-    
+    margin-top: 5px;
+    margin-bottom: 5px !important;
 }
 
 .smoll{
@@ -158,6 +159,11 @@
     font-weight: 400;
     color: #555555;
 }
+
+/* .owl-carousel img{
+    width: 250px;
+    height: 250px;
+} */
 
 /* *************** CAROUSEL END ***************** */
 
@@ -209,6 +215,11 @@
     margin-bottom: 30px;
 }
 
+.picture img{
+    width: 100%;
+    margin-top: 10px;
+}
+
 
 /* ===============Section date======================= */
 
@@ -239,6 +250,9 @@
 
 .blog{
     margin-bottom: 40px;
+}
+ .blog_img{
+    width: 100%;
 }
 
 .near{
@@ -311,10 +325,14 @@
 }
 
 #demo .carousel-indicators li{
-    height: 15px;
-    width: 15px;
+    width: 13px;
+    height: 13px;
+    background-color: #dddddd;
     border-radius: 50%;
-    background-color: #555555;
+}
+
+#demo .carousel-indicators li:hover{
+    background-color: #c0301c;
 }
 
 /* ===================Section sponsors===================== */
@@ -329,6 +347,7 @@
 
 .logo_sponsor{
     margin: auto;
+    text-align: center;
 }
 
 .carousel-indicators{

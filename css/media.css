@@ -6,8 +6,12 @@
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
 
-}
+    /* .owl-carousel img{
+        width: 200px;
+        height: 200px;
+    } */
 
+}
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
 	
@@ -21,4 +25,9 @@
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
 
+.date.blog.name_dates+img{
+    width: 100%;
 }
+
+}
+
