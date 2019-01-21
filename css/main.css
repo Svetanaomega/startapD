@@ -199,6 +199,16 @@
     text-decoration: none;
 }
 
+.mask{
+    display: block;
+    text-align: center;
+    padding-top: 80px;
+  }
+
+  .red-text{
+    margin-top: 10px;
+  }
+
 .red_questions{
     background: url(../Imagas/bg-questions.png);
     width: 100%;
@@ -217,7 +227,6 @@
 
 .picture img{
     width: 100%;
-    margin-top: 10px;
 }
 
 
@@ -415,7 +424,8 @@
 }
 
 .btn.btn-outline-secondary{
-    border-radius: 0;
+    border: 1px solid #555555 !important;
+    color: #555555 !important;
 }
 
 .send span{

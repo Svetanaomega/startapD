@@ -14,7 +14,9 @@
 }
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-	
+	.mask{
+        padding-top: 150px;
+      }
 }
 
 /* Small Devices, Tablets */
@@ -29,5 +31,17 @@
     width: 100%;
 }
 
+.mask{
+    padding-top: 100px;
+  }
+
 }
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 320px) {
+    .mask{
+        padding-top: 50px;
+      }
+    
+    }
 
