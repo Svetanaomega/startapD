@@ -209,6 +209,11 @@
     margin-top: 10px;
   }
 
+  .red-text i{
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
 .red_questions{
     background: url(../Imagas/bg-questions.png);
     width: 100%;
